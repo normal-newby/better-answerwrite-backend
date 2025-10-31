@@ -35,4 +35,4 @@ build/
 ### environment ###
 .env
 
-src/main/resources/summer-hawk-473921-i2-e8c0c5dd0c3b.json
+src/main/resources/*.json
