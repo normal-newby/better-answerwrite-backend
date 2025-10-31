@@ -35,4 +35,4 @@ build/
 ### environment ###
 .env
 
-src/main/resources/*.json
+*.json
